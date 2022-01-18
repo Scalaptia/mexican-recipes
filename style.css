@@ -44,11 +44,17 @@ body {
 }
 
 .back {
-    text-align: left;
+    float: left;
+    text-align: center;
+    display: block;
+    padding: 8px;
 }
 
 .next {
+    float: right;
     text-align: right;
+    display: block;
+    padding: 8px;
 }
 
 .text {
